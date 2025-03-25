@@ -1,0 +1,14 @@
+0. dinner
+1. sleep
+0. DINNER
+1. SLEEP
+0. LUNCH 2:30
+1. DINNER 10:!0
+0. dinner
+1. study
+2. sleep
+0. lunch
+1. dinner
+2. good night
+0. lunch
+1. dinner

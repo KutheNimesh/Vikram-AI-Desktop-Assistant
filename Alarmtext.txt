@@ -1,0 +1,2 @@
+9 and 36 and 009 and 38 and 009 and 41 and 00python -u "c:\Users\Mayuri\Desktop\Vikram_Final-20240408T075108Z-001\Vikram_Final\Vikram_main.py
+10 and 13 and 0019 and 51 and 0020 and 50 and 00
